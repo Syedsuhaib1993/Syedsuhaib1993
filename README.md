@@ -1,4 +1,5 @@
-<h1 align="center">Hi ??, I'm Syed Suhaib</h1>
+
+<h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Hi !!, I'm Syed Suhaib <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /></h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 
 <img align="left" alt="coding" width="400"  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
