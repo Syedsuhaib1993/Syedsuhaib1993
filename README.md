@@ -1,4 +1,4 @@
-<h1 align="center">Hi ??, I'm Syed Suhaib</h1>
+<h1 align="center">Hi !, I'm Syed Suhaib</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedsuhaib1993&label=Profile%20views&color=0e75b6&style=flat" alt="syedsuhaib1993" /> </p>
@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedsuhaib1993&show_icons=true&locale=en" alt="syedsuhaib1993" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedsuhaib1993&" alt="syedsuhaib1993" /></p>
+
